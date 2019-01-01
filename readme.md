@@ -366,7 +366,7 @@
 
 **作业 Week11：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
 2.推荐系统实现 Recommender Systems  
-**课程比赛：比赛介绍: **  
+**课程比赛：比赛介绍: Kaggle 比赛： 泰坦尼克 Titanic**  
 
 ---------------------------------------------------------
 
